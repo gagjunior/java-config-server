@@ -3,7 +3,7 @@ server:
 
 spring: 
   application:
-    name: config-service
+    name: novare-service
     
 novare-service:
   page: 0
